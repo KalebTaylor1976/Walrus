@@ -3,8 +3,8 @@ img {
 
 }
 
- sidebar  {
-  width:  30%
+ .sidebar  {
+  width:  30%;
   float:  right;
   background-color: yellow;
 }
